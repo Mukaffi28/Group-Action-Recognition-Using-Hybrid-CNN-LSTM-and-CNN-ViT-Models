@@ -19,7 +19,7 @@ We use the **Collective Activity Dataset** [1], which includes video sequences l
 ### Results
 The models are evaluated on the Collective Activity Dataset, and results demonstrate improvements in group action recognition using hybrid architectures. Below is an example of correctly classified activities:
 
-![Sample Predictions](images/sample_predictions.png)
+![Sample Predictions](predictions.png)
 
 ### References
 1. Wongun Choi, K. Shahid, and S. Savarese, "What are they doing? : Collective activity classification using spatio-temporal relationship among people," *2009 IEEE 12th International Conference on Computer Vision Workshops (ICCVW)*, 2009.
